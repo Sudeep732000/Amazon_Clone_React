@@ -12,6 +12,7 @@ Technology Stack Used:
 #JS-Styled Components.
 
 #Commands to be remembered:
+
  npm install JS-Styled-Components:
  It is used to write component level styles that can be written with combo of Javascript & CSS
  
